@@ -1,2 +1,2 @@
 # MarqueeOnListView
-listView上每个item
+listView上每个item都可以跑马灯
